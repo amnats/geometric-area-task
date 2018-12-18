@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricArea", "GeometricArea\GeometricArea.csproj", "{977C086B-0C56-4741-A0E7-CDBD3AA1307D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricAreaTest", "GeometricAreaTest\GeometricAreaTest.csproj", "{CC862D89-30B6-4799-96B0-9A5F12B392C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977C086B-0C56-4741-A0E7-CDBD3AA1307D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977C086B-0C56-4741-A0E7-CDBD3AA1307D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977C086B-0C56-4741-A0E7-CDBD3AA1307D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977C086B-0C56-4741-A0E7-CDBD3AA1307D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC862D89-30B6-4799-96B0-9A5F12B392C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC862D89-30B6-4799-96B0-9A5F12B392C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC862D89-30B6-4799-96B0-9A5F12B392C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC862D89-30B6-4799-96B0-9A5F12B392C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
